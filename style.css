@@ -101,6 +101,7 @@ body {
         height: 600px;
         border-radius: 15px;
         display: flex;
+        justify-content: center;
     }
     #box {
         height: 500px;
